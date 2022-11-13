@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6eb8319c120539942ac6b43f69b8246e
+guid: f0ac97abf13d7434f83e375247f9013e
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Aerospace
+  - Space Frigate
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
