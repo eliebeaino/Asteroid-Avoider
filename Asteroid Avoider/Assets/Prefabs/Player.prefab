@@ -78,9 +78,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d4138788608ec643a31d54046102a57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceMagnitude: 10
+  forceMagnitude: 20
   maxVelocity: 10
-  rotationSpeed: 5
+  rotationSpeed: 10
 --- !u!114 &354440646572345135
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -93,6 +93,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e01df42eace8de45bcdcc1a9d68ee30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gameOverHandler: {fileID: 0}
+  health: 5
+  crashSFX:
+  - {fileID: 8300000, guid: 4ac95dd28af0eae43b0150d9429ad1a2, type: 3}
+  - {fileID: 8300000, guid: cfb1740f63ea666458011df281a0feb1, type: 3}
+  volumeSFX: 0.7
 --- !u!1001 &354440645219178440
 PrefabInstance:
   m_ObjectHideFlags: 0
